@@ -23,18 +23,7 @@
 - `.gitignore` — recommended (see below)
 - `README.md` — this file
 
-> If you have the provided logo in your environment, you can copy it from:
-> `/mnt/data/b0c70198-9963-4308-98b5-c31f3c44752a.png`
->
-> Save it to this repo as `logo.png` before deploy.
 
----
 
-## Quick local setup
 
-1. Create & activate a virtual environment:
 
-**Windows (PowerShell):**
-```powershell
-python -m venv venv
-.\venv\Scripts\Activate.ps1
