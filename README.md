@@ -1,3 +1,10 @@
+
+## 🚀 Live App
+https://ghodkeinsightsai.streamlit.app/
+
+
+
+
 # Ghodke Insights AI — AI Data Assistant
 
 **AI Data Assistant — Streamlit app for automated data cleaning, exploratory data analysis (EDA), visualizations, and downloadable results.**
